@@ -1,6 +1,3 @@
-Below is a `README.md` file for your Deep-Learning-Project:
-
-
 # Deep-Learning-Project
 
 This project focuses on processing a dataset of heart patient information, generating correlation graphs, and fine-tuning a Large Language Model (LLM) using the Llama 2 architecture.
