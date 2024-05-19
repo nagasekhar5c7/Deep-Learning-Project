@@ -1,6 +1,6 @@
 Below is a `README.md` file for your Deep-Learning-Project:
 
-```markdown
+
 # Deep-Learning-Project
 
 This project focuses on processing a dataset of heart patient information, generating correlation graphs, and fine-tuning a Large Language Model (LLM) using the Llama 2 architecture.
@@ -12,12 +12,12 @@ Access the provided Google Drive link to download the dataset files to your loca
 
 ### 2. Prepare the Environment
 Ensure you have the following installed on your system:
-- Python
-- accelerate==0.21.0
-- peft==0.4.0
-- bitsandbytes==0.40.2
-- transformers==4.31.0
-- trl==0.4.7
+ - Python
+ - accelerate==0.21.0
+ - peft==0.4.0
+ - bitsandbytes==0.40.2
+ - transformers==4.31.0
+ - trl==0.4.7
 
 You can install these dependencies using pip:
 ```bash
